@@ -1,0 +1,2 @@
+# premium-watch-jewel-001-watch-jewel-setting-tracker
+Tired of losing track of jewel counts and positions every time you open a movement? The Watch Jewel Setting Tracker ends the chaos of scattered notes and forgotten specs.  This Notion template gives you a centralized, searchable database for every jewel setting in your watch collection. No more guessing or disassembly repeats—just instant access to
